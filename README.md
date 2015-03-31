@@ -1,5 +1,5 @@
 # spark
-#### [em desenvolvimento]
+##### [em desenvolvimento]
 
 O projeto surgiu de uma necessidade pessoal de disseminar conhecimento sobre tecnologia e de fomentar a ideia de que ensinar é a melhor forma de se aprender. E fazer isso proporcionando o crescimento pessoal e profissional de outras pessoas, torna o projeto ainda mais atraente.
 
@@ -14,6 +14,6 @@ O sistema fornecerá, também, o conteúdo programático dos cursos para que as 
 
 Sendo assim, será uma forma colaborativa para Empresas e Profissionais alinharem suas expectativas.
 
-E assim nasce o PROJETO SPARK.
+E assim nasce o *PROJETO SPARK*.
 
 Conto com todos!
